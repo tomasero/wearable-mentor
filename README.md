@@ -15,13 +15,13 @@
 
 Path to server is
 
-  /server/server.py
+    /server/server.py
 
 To run
 
-  cd server
-  python server.py
+    cd server
+    python server.py
 
 To test from CLI
 
-  curl -X POST --data "arg1=raptor" --data "arg2=t-rex" http://localhost:5001/args 
+    curl -X POST --data "arg1=raptor" --data "arg2=t-rex" http://localhost:5001/args 
